@@ -1,0 +1,10 @@
+Flask
+requests
+python-dotenv
+cachetools
+aiohttp
+asyncio
+streamlit
+pymysql
+mysqlclient
+sqlalchemy
